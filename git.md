@@ -17,7 +17,7 @@ git config --global user.name "name"  # 上传者的用户名
 git config --global user.email "you@email.com" # 上传者的邮箱 配置一次即可，后面无需配置 这样就知道是谁上传的
 ```
 
-
+![](http://q1cw3e2d5.bkt.clouddn.com/QQ%E5%9B%BE%E7%89%8720191112154020.jpg)
 
 #### 创建 git 仓库:
 
